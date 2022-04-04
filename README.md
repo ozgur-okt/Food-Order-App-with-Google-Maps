@@ -10,8 +10,8 @@ The Food Order App is created by using React Native framework. The app has 3 pag
 The [Node.js](https://nodejs.org/) v16.13.1 and Expo v44.0.0 were used. For installation, install the dependencies and start the server.
 
 ```sh
-git clone https://github.com/ozgur-okt/React-Native-Food-Order-App-with-Google-Maps
-cd React-Native-Food-Order-App-with-Google-Maps
+git clone https://github.com/ozgur-okt/react-native-food-order-app-with-google-maps
+cd react-native-food-order-app-with-google-maps
 expo init
 ```
 #### Start the server
